@@ -25,19 +25,19 @@ The package provides all the files that are used in the article of "Accurately p
 Please cite the following work if you want to use this model.
 
 ```
-@article{PhysRevLett.120.145301,
-  title = {Accurately predicting voltage of electrode materials in metal-ion batteries using interpretable deep transfer learning},
-  author = {Zhang Xiuying and Shen Lei},
-  journal = {},
-  volume = {},
-  issue = {},
-  pages = {},
-  numpages = {},
-  year = {2021},
-  month = {},
-  publisher = {},
-  doi = {},
-  url = {}
+@article{npj Comput. Mater. 8, 175 (2022),
+  title = {Interpretable Learning of Voltage for Electrode Design of Multivalent Metal-ion Batteries},
+  author = {Zhang Xiuying, Zhou Jun, Lv Jing, and Shen Lei},
+  journal = {npj Comput. Mater.},
+  volume = {8},
+  issue = {1},
+  pages = {175},
+  numpages = {8},
+  year = {2022},
+  month = {August},
+  publisher = {Springer Nature},
+  doi = {10.1038/s41524-022-00858-9},
+  url = {http://www.nature.com/articles/s41524-022-00858-9}
 }
 ```
 The work of the CGCNN model is also suggested to cite when using this model.
